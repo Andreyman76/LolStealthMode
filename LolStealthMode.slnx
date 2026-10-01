@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="LolStealthMode.Desktop/LolStealthMode.Desktop.csproj" />
+  <Project Path="LolStealthMode/LolStealthMode.csproj" />
+</Solution>
